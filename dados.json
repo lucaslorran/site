@@ -6,16 +6,7 @@
     "categoria": "livros",
     "link": "https://www.mercadolivre.com.br/o-vinho-novo-e-melhor-livro-de-robert-thom-editora-vida-capa-mole-em-portugus/p/MLB21571183#polycard_client=search-nordic&search_layout=grid&position=1&type=product&tracking_id=d4121dcd-69b4-4b73-b3ad-f95ea89ee24b&wid=MLB3416340537&sid=search",
     "prioridade": "baixa",
-    "imagem": "https://plenitudedistribuidora.fbitsstatic.net/img/p/o-vinho-novo-e-melhor-robert-thom-83551/270073-9.jpg?w=400&h=400&v=202507101058"
-  },
-  {
-    "nome": "Moletom Jaqueta Haikyuu Karasuno",
-    "descricao": "Escolha ideal para quem busca praticidade e segurança no dia a dia",
-    "preco": 143.91,
-    "categoria": "roupas",
-    "link": "https://produto.mercadolivre.com.br/MLB-2824299807-moletom-jaqueta-haikyuu-karasuno-_JM?",
-    "prioridade": "baixa",
-    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652149-MLB51753343154_092022-O-moletom-jaqueta-haikyuu-karasuno.webp"
+    "imagem": "https://images.tcdn.com.br/img/img_prod/1211412/90_o_vinho_novo_e_melhor_39_2_f0a108926f311169cdc85ec296817d9e.jpg"
   },
   {
     "nome": "Livro: Voz de muitas águas: Quando a palavra de deus fala mais alto.",
@@ -24,16 +15,25 @@
     "categoria": "livros",
     "link": "https://www.mercadolivre.com.br/livro-voz-de-muitas-aguas-quando-a-palavra-de-deus-fala-mais-alto--luciano-subira/up/MLBU3180870021#polycard_client=search-nordic&search_layout=grid&position=1&type=product&tracking_id=0f15dbfd-1d48-4675-9187-fb00c1468f4a&wid=MLB4066886555&sid=search",
     "prioridade": "baixa",
-    "imagem": "https://plenitudedistribuidora.fbitsstatic.net/img/p/voz-de-muitas-aguas-luciano-subira-nova-edicao-97781/286732-4.jpg?w=400&h=400&v=202504301040"
+    "imagem": "https://plenitudedistribuidora.com.br/cdn/shop/files/286732-4.jpg?v=1772160283"
   },
+  {
+    "nome": "Vale Presentes Loja Riachuelo",
+    "descricao": "Se quiser me dar roupa e estiver na dúvida",
+    "preco": 200.00,
+    "categoria": "outros",
+    "link": "https://riachuelo.todocartoes.com.br/#/purchase",
+    "prioridade": "baixa",
+    "imagem": "https://dshop.com.br/sas2012/v2/uploads/produtos/ws7839g.jpg"
+  },  
   {
     "nome": "Vale Presentes Lojas C&A",
     "descricao": "Se quiser me dar roupa e estiver na dúvida ",
-    "preco": 130.00,
+    "preco": 200.00,
     "categoria": "outros",
     "link": "https://www.cea.com.br/cartao-presente---arcos-3001701-arcos/p?skuId=2138492",
     "prioridade": "baixa",
-    "imagem": "https://originalexperience.com.br/wp-content/uploads/2023/06/cartao-presente-cea.jpg"
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZayTzM2XxtIrURQ1UfeH3G9doDTLouX4Xpp2uN4mNiw&s=10"
   },
   {
     "nome": "Livro: O Caminho da Obediência",
@@ -70,5 +70,14 @@
     "link": "https://www.amazon.com.br/Velha-Infantil-Colorido-Tabuleiro-Interativo/dp/B0CJH81J42/ref=asc_df_B0CJH81J42?mcid=e0c8125a108b31ffa28a6447ebc41d79&tag=googleshopp00-20&linkCode=df0&hvadid=709857019392&hvpos=&hvnetw=g&hvrand=7117152431394020352&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9100588&hvtargid=pla-2245869552448&psc=1&language=pt_BR&gad_source=1",
     "prioridade": "baixa",
     "imagem": "https://m.media-amazon.com/images/I/519dSUH3w0L._AC_SL1000_.jpg"
-  }
+  },
+  {
+    "nome": "Moletom Jaqueta Haikyuu Karasuno",
+    "descricao": "Escolha ideal para quem busca praticidade e segurança no dia a dia",
+    "preco": 143.91,
+    "categoria": "roupas",
+    "link": "https://produto.mercadolivre.com.br/MLB-2824299807-moletom-jaqueta-haikyuu-karasuno-_JM?",
+    "prioridade": "baixa",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_652149-MLB51753343154_092022-O-moletom-jaqueta-haikyuu-karasuno.webp"
+  }  
 ]
