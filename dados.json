@@ -106,5 +106,23 @@
     "link": "https://meli.la/2uJgmN8",
     "prioridade": "baixa",
     "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_708031-MLA95711153146_102025-F.webp"
-  }    
+  },
+  {
+    "nome": "CAMISETA: \"Eu guardo todas as minhas piadas de pai em um dad-a-base\" T.I",
+    "descricao": "Escolha ideal para quem busca praticidade e segurança no dia a dia",
+    "preco": 109.90,
+    "categoria": "roupas",
+    "link": "https://www.useti.shop/useti/product/eu-guardo-todas-as-minhas-piadas-de-pai-em-um-dad-a-base-t-i",
+    "prioridade": "baixa",
+    "imagem": "https://gcp-images.majestic.ink.rsvcloud.com/images/product_v2/main_image/e4079f49246bee71d2809f450955bcff.webp"
+  },
+  {
+    "nome": "CAMISETA: \"Jesus salva sua vida, backup salva seu emprego\" T.I",
+    "descricao": "Escolha ideal para quem busca praticidade e segurança no dia a dia",
+    "preco": 109.90,
+    "categoria": "roupas",
+    "link": "https://www.useti.shop/useti/product/eu-guardo-todas-as-minhas-piadas-de-pai-em-um-dad-a-base-t-i",
+    "prioridade": "baixa",
+    "imagem": "https://gcp-images.majestic.ink.rsvcloud.com/images/product_v2/main_image/72517838181d48e5d81f184dcd274c39.webp"
+  }      
 ]
