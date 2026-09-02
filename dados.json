@@ -133,5 +133,14 @@
     "link": "https://www.useti.shop/useti/product/eu-guardo-todas-as-minhas-piadas-de-pai-em-um-dad-a-base-t-i",
     "prioridade": "baixa",
     "imagem": "https://gcp-images.majestic.ink.rsvcloud.com/images/product_v2/main_image/72517838181d48e5d81f184dcd274c39.webp"
-  }      
+  },  
+  {
+    "nome": "Livro: A Odisseia - Edição de Luxo Almofadada",
+    "descricao": "A Odisseia, de Homero, é uma das maiores obras da literatura universal e um marco da tradição épica. O poema narra a longa e desafiadora jornada de Odisseu (Ulisses) em seu retorno para casa após a Guerra de Troia, enfrentando monstros, deuses, provações e tentações que colocam à prova sua coragem, inteligência e perseverança.",
+    "preco": 49.90,
+    "categoria": "livros",
+    "link": "https://a.co/d/0j6XIFcx",
+    "prioridade": "baixa",
+    "imagem": "https://m.media-amazon.com/images/I/614CdkoT4-L._SX445_.jpg"
+  },
 ]
