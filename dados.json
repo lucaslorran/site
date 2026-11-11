@@ -151,5 +151,14 @@
     "link": "https://www.amazon.com.br/Zelota-vida-%C3%A9poca-Jesus-Nazar%C3%A9/dp/8537811521",
     "prioridade": "baixa",
     "imagem": "https://m.media-amazon.com/images/I/81l3hJRNU1L._SY385_.jpg"
+  },  
+  {
+    "nome": "BOX As Crônicas de Nárnia - Edição de Luxo",
+    "descricao": "As Crônicas de Nárnia é uma aclamada série de sete livros de fantasia escrita pelo autor britânico C. S. Lewis.",
+    "preco": 220.24,
+    "categoria": "livros",
+    "link": "https://www.amazon.com.br/BOX-As-Cr%C3%B4nicas-N%C3%A1rnia-Edi%C3%A7%C3%A3o/dp/6560050416/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=38N228RL9X86L&dib=eyJ2IjoiMSJ9.Ir3vJbAtct0Yehg4jiQl-UN-vat93nTebzrJTZ_Fl8XVpaz_A0DoDeRvSvQ1AGd9fpQbaPLrkZ3O3lXSjQrRgKcRQ5LE5aeZhtEi9j29XvkMqJQm_yurmvT6F1sfP8HWbmzL904-DCjcg1kdiKlzz4YItnpQrB7VHnU04N9L26XDMDEFHatH-9MBTZ_8SwCfbuECZyhXaqSEu7UGB2WJSeJ7bobms_lHYwbXuTtL3HI.L9Gqbx-BovzuLMQvEivYHNR_bB1vmgj5XSRp8sXWZPc&dib_tag=se&keywords=As+Cr%C3%B4nicas+de+N%C3%A1rnia&qid=1794423522&s=books&sprefix=as+cr%C3%B4nicas+de+n%C3%A1rnia%2Cstripbooks%2C191&sr=1-1&ufe=app_do%3Aamzn1.fos.039ad06c-756b-42cf-b2ab-dcc42e7aa5c9",
+    "prioridade": "baixa",
+    "imagem": "https://m.media-amazon.com/images/I/81erRs9DQDL._SY342_.jpg"
   }
 ]
