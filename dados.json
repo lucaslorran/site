@@ -142,5 +142,14 @@
     "link": "https://www.jequiti.com.br/desodorante-colonia-masculina-malte-black-19272/p?srsltid=AU7gw4WQlojC_0TeI7yrdSVEnP5RLjtdIHrkMcz-I_yDadAXu73CcDio",
     "prioridade": "baixa",
     "imagem": "https://jequiti.vtexassets.com/arquivos/ids/171448-1920-0/90.png?v=638606362621330000"
+  },  
+  {
+    "nome": "Livro: Zelota: A vida e a época de Jesus de Nazaré",
+    "descricao": " O livro faz uma reconstrução histórica da Palestina do século I para apresentar o Jesus histórico — afastando-se do foco estritamente teológico ou mítico.",
+    "preco": 64.17,
+    "categoria": "livros",
+    "link": "https://www.amazon.com.br/Zelota-vida-%C3%A9poca-Jesus-Nazar%C3%A9/dp/8537811521",
+    "prioridade": "baixa",
+    "imagem": "https://m.media-amazon.com/images/I/81l3hJRNU1L._SY385_.jpg"
   }
 ]
